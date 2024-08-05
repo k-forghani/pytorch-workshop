@@ -2,16 +2,20 @@
 
 ## Introduction
 
-These are the updated versions of notebooks used in the *PyTorch Beginner Series* YouTube playlist, created by *Brad Heintz*.
+These are the updated versions of notebooks used in the [PyTorch Beginner Series](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN) YouTube playlist, created by [Brad Heintz](https://github.com/fbbradheintz).
 
-1. [Introduction to PyTorch](https://www.youtube.com/watch?v=IC0_FRiX-sw&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=1&pp=gAQBiAQB)
-2. [Introduction to PyTorch Tensors](https://www.youtube.com/watch?v=r7QDUPb2dCM&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=2&pp=gAQBiAQB)
-3. [The Fundamentals of Autograd](https://www.youtube.com/watch?v=M0fX15_-xrY&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=3&pp=gAQBiAQB)
-4. [Building Models with PyTorch](https://www.youtube.com/watch?v=OSqIP-mOWOI&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=4&pp=gAQBiAQB)
-5. [PyTorch TensorBoard Support](https://www.youtube.com/watch?v=6CEld3hZgqc&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=5&pp=gAQBiAQB)
-6. [Training with PyTorch](https://www.youtube.com/watch?v=jF43_wj_DCQ&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=6&pp=gAQBiAQB)
-7. [Model Understanding with Captum](https://www.youtube.com/watch?v=Am2EF9CLu-g&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=7&pp=gAQBiAQB)
-8. [Production Inference Deployment with PyTorch](https://www.youtube.com/watch?v=Dk88zv1KYMI&list=PLKOlBzK0nD6YykkmuZ31DeZFcMKKr1iO8&index=8&pp=gAQBiAQB)
+## Outline
+
+| | Title | Video | Notebook |
+| --- | --- | --- | --- |
+| 1 | Introduction to PyTorch | [+](https://www.youtube.com/watch?v=IC0_FRiX-sw&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=1&pp=iAQB) | [+](./1_Overview/) |
+| 2 | Introduction to PyTorch Tensors | [+](https://www.youtube.com/watch?v=r7QDUPb2dCM&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=2&pp=iAQB) | [+](./2_Introduction_to_Tensors/2_Introduction_to_Tensors.ipynb) |
+| 3 | The Fundamentals of Autograd | [+](https://www.youtube.com/watch?v=M0fX15_-xrY&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=3&pp=iAQB) | [+](./3_The_Fundamentals_of_Autograd/3_The_Fundamentals_of_Autograd.ipynb) |
+| 4 | Building Models with PyTorch | [+](https://www.youtube.com/watch?v=OSqIP-mOWOI&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=4&pp=iAQB) | [+](./4_Building_Models_in_PyTorch/4_Building_Models_in_PyTorch.ipynb) |
+| 5 | PyTorch TensorBoard Support | [+](https://www.youtube.com/watch?v=6CEld3hZgqc&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=5&pp=iAQB) | [+](./5_TensorBoard_Support_in_PyTorch/5_TensorBoard_Support_in_PyTorch.ipynb) |
+| 6 | Training with PyTorch | [+](https://www.youtube.com/watch?v=jF43_wj_DCQ&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=6&pp=iAQB) | [+](./6_Model_Training_with_PyTorch/6_Model_Training_with_PyTorch.ipynb) |
+| 7 | Model Understanding with Captum | [+](https://www.youtube.com/watch?v=Am2EF9CLu-g&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=7&pp=iAQB) | [+](./7_Model_Understanding_with_Captum/7_Model_Understanding_with_Captum.ipynb) |
+| 8 | Production Inference Deployment with PyTorch | [+](https://www.youtube.com/watch?v=Dk88zv1KYMI&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=8&pp=iAQB) | [+](./8_Production_Inference_Deployment_with_PyTorch/) |
 
 ## Installation
 
